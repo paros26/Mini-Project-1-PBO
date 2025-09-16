@@ -53,3 +53,22 @@ service/KendaraanService.java → berisi logika CRUD (Create, Read, Update, Dele
 5. User bisa menambahkan, melihat, memperbarui, menghapus, dan mencari data kendaraan.
 
 Program berjalan terus hingga user memilih menu Keluar.
+
+
+## Nilai Tambahan
+
+1. Fitur Search
+
+   <img width="849" height="538" alt="image" src="https://github.com/user-attachments/assets/0d94ef3e-7194-471f-95ae-a76a284070aa" />
+
+
+Jadi saya di sini menerapkan fitur serach untuk mencari kendaraan yang telah di input
+
+
+2.Validasi Input
+
+
+   <img width="945" height="499" alt="image" src="https://github.com/user-attachments/assets/fec14163-90dc-42ce-9abe-40395da0a992" />
+
+
+   Jadi di sini saya menerapkan validasi pada menu tambahkan kendaraan yang di bagian input harga sewa, apa bila menginput berupa huruf atau kosong maka akan terjadi alert dan melakukan validasi untul input ulang
